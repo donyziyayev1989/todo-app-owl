@@ -1,6 +1,6 @@
-.input-sm {
-  padding: 0 !important;
-  width: 45px;
-  margin-top: 10px;
-  height: 45px;
+.form-control:focus {
+  box-shadow: none;
+}
+.form-control-color {
+  background: transparent;
 }
